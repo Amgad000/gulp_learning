@@ -1,0 +1,1 @@
+function sayHi(){return"Hi evey one from one"}function sayHiThree(){return"Hi evey one from three "}function sayHiTwo(){return"Hi evey one from two "}
